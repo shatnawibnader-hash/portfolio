@@ -222,7 +222,7 @@ const App: React.FC = () => {
       <section id="contact" className="py-24 bg-white scroll-mt-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 mb-6">
-            للاستفسار عن تفاصيل الدروس والتسجيل
+            للاستفسار عن تفاصيل الدروس 
           </h2>
           <p className="text-xl text-slate-600 mb-12">
             لا تتردد في التواصل للحصول على الدعم الذي تحتاجه لتحقيق النجاح.
