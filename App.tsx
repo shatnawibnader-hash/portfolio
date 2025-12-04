@@ -47,7 +47,7 @@ const App: React.FC = () => {
           <div className="max-w-3xl mx-auto mb-12 bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
             <p className="text-lg md:text-xl leading-relaxed">
 مرحبًا بطلاب جامعة الأمير سلطان!
-هذا الموقع مخصص فقط للتواصل معنا عبر الواتساب أو الاتصال الهاتفي للحصول على أفضل الدروس الخصوصية والدعم في مقررات الحاسب            </p>
+هذا الموقع مخصص فقط للتواصل معنا عبر الواتساب أو الاتصال الهاتفي للحصول على أفضل الدروس الخصوصية والدعم في مقررات الحاسب حضوري أو عن بعد             </p>
           </div>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
