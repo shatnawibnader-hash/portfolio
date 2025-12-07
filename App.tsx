@@ -35,13 +35,13 @@ const App: React.FC = () => {
             د. أبو سلطان
           </h1>
           <h2 className="text-2xl md:text-3xl font-bold text-accent-400 mb-4">
-            مُدرّس جامعي متخصص لمقررات CMP011 و CMP012
+            مُدرّس جامعي متخصص لمقررات CMP011 و CMP012  
+  
           </h2>
           <p className="text-xl md:text-2xl font-light text-slate-100 mb-2">
             خبرة أكاديمية وعملية – دعم شامل للنجاح والتفوق
           </p>
           <p className="text-lg md:text-xl font-medium text-slate-300 mb-12">
-            جامعة الأمير سلطان
           </p>
           
           <div className="max-w-3xl mx-auto mb-12 bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
